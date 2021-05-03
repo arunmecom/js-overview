@@ -1,0 +1,8 @@
+.grid-items{
+    display: grid;
+    grid-template-columns: 2fr;
+}
+.items{
+   background: red;
+   color: #fff;
+}
